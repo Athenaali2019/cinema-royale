@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "id": "cinema-royale",
+  "name": "Cinema Royale",
+  "layout": "classic",
+  "version": 1,
+  "colors": {
+    "accent": "#D4AF37",
+    "secondary": "#C0C0C0"
+  },
+  "layoutGraph": {
+    "browse": {
+      "row": {
+        "x": 0,
+        "y": 87,
+        "w": 960,
+        "h": 500
+      },
+      "nav": {
+        "position": "side",
+        "size": 240
+      },
+      "hidden": ["filters", "caption"]
+    }
+  }
+}
