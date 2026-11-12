@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "Cinema Royale pack",
+  "skins": [
+    {
+      "id": "cinema-royale",
+      "name": "Cinema Royale",
+      "url": "https://raw.githubusercontent.com/Athenaali2019/cinema-royale/main/cinema-royale.json",
+      "version": 1
+    }
+  ]
+}
